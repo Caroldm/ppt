@@ -1,13 +1,13 @@
-# ppt
+## Power points 
 
+____________________________________________________________________________________________________________________________________
 
-
-Aging_RELA.pdf:	
-DEG-Macrophage.pdf:			
-Fibroblast_DP.pdf:	
-G2E_analysis_of_MCF10Acells.pptx:	
-GTEX.pdf:	
-README.md:	
-RNA-seq.pdf:	
-glioblastoma_ppt02.pdf:	
-projects-update.pdf:
+Aging_RELA.pdf:	<br>
+DEG-Macrophage.pdf:	<br>		
+Fibroblast_DP.pdf:	<br>
+G2E_analysis_of_MCF10Acells.pptx:	<br>
+GTEX.pdf:	<br>
+README.md:	<br>
+RNA-seq.pdf:	<br>
+glioblastoma_ppt02.pdf:	<br>
+projects-update.pdf:<br>
